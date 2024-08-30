@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **E-Commerce Website**
 
-- 🌱 I’m currently learning **React.js,Next,js**
+- 🌱 I’m currently learning **React.js,Node.js,Express.js and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-c5673.web.app/](https://portfolio-website-c5673.web.app/)
+- 👨‍💻 All of my projects are available at [https://zeeshanafzal.dev/](https://zeeshanafzal.dev/)
 
-- 💬 Ask me about **C++,HTML,CSS,JavaScript,React,MySql,PHP,Python**
+- 💬 Ask me about **C++,C,HTML,CSS,Bootstrap,JavaScript,React,Node,Express,MongoDB,MySql,PHP,Python**
 
-- 📫 How to reach me **zna152191@gmail.com**
+- 📫 How to reach me **contact@zeeshanafzal.dev**
 
 - 📄 Know about my experiences [https://shorturl.at/lq135](https://shorturl.at/lq135)
 
