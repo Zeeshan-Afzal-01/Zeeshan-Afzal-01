@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React.js,Node.js,Express.js and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://zeeshanafzal.dev/](https://zeeshanafzal.dev/)
-
 - 💬 Ask me about **C++,C,HTML,CSS,Bootstrap,JavaScript,React,Node,Express,MongoDB,MySql,PHP,Python**
 
 - 📫 How to reach me **contact@zeeshanafzal.dev**
