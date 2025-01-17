@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **Code Sharing Platform WebApp**
 
-- 🌱 I’m currently learning **React.js,Node.js,Express.js and MongoDB**
-
-- 💬 Ask me about **C++,C,HTML,CSS,Bootstrap,JavaScript,React,Node,Express,MongoDB,MySql,PHP,Python**
+- 💬 Ask me about **C++,C,java,JavaScript,React,Node,Express,MongoDB,SocketProgramming,MySql,PHP,Python**
 
 - 📫 How to reach me **contact@zeeshanafzal.dev**
 
