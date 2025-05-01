@@ -7,9 +7,8 @@
 
 - 💬 Ask me about **C++,C,java,JavaScript,React,Node,Express,MongoDB,SocketProgramming,MySql,PHP,Python**
 
-- 📫 How to reach me **contact@zeeshanafzal.dev**
+- 📫 How to reach me **zna152191@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/lq135](https://shorturl.at/lq135)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
