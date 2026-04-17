@@ -1,21 +1,62 @@
-<h1 align="center">Hi, I'm Zeeshan Afzal</h1>
-<h3 align="center">A Software Engineering from Pakistan</h3>
+# Hi 👋 I'm Zeeshan Afzal
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan-afzal-01&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan-afzal-01" /> </p>
+### Full Stack Software Engineer | AI & RAG Systems Developer
 
-- 🔭 I’m currently working on **Code Sharing Platform WebApp**
+I specialize in building scalable web applications, AI-powered systems, and real-time platforms using modern JavaScript frameworks and cloud-native tools. I focus on turning complex ideas into production-ready solutions with clean architecture and performance optimization.
 
-- 💬 Ask me about **C++,C,java,JavaScript,React,Node,Express,MongoDB,SocketProgramming,MySql,PHP,Python**
+---
 
-- 📫 How to reach me **se.zeeshanafzal@gmail.com**
+## 🚀 Tech Stack
+
+**Languages:**  
+JavaScript (Node.js, React, Next.js), TypeScript, Python, C++
+
+**Backend & Frameworks:**  
+Node.js, Express.js, REST APIs, Next.js, LangChain
+
+**AI & Data Systems:**  
+RAG Pipelines, Qdrant (Vector DB), LLM Integration (Gemini, Groq), STT/TTS Systems
+
+**Databases & Cloud:**  
+MongoDB, MySQL, Firebase, Supabase, AWS
+
+**Tools & DevOps:**  
+Git, GitHub Actions, Docker, Postman, n8n, CI/CD Pipelines
+
+---
+
+## 💼 Experience Highlights
+
+- Engineered scalable RAG-based systems using LangChain and multi-LLM integration, enabling low-latency AI responses (<5s).
+- Architected full-stack production systems including CMS and LMS platforms using Next.js and Supabase with role-based access control.
+- Designed multimodal AI systems supporting text, voice, and image inputs for real-time interaction and automation.
+- Built real-time applications using WebSockets, authentication systems, and cloud-integrated backend architectures.
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 SLIMAI (AI Product Platform)
+Full-stack AI-powered calorie tracking and nutrition platform with CMS integration and real-time insights.
+
+### 🔹 HealthBridge AI
+Multimodal AI medical assistant supporting image, text, and voice-based diagnostic interaction.
+
+### 🔹 Journey Through Pakistan (JTP)
+AI-based tourism platform with landmark recognition, recommendations, and real-time user interaction features.
+
+### 🔹 No Yelling
+Scalable booking platform with server-rendered pages and optimized performance architecture.
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zeeshanafzal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeeshanafzal01" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 📫 Connect With Me
 
+- LinkedIn: linkedin.com/in/zeeshanafzal01  
+- GitHub: github.com/Zeeshan-Afzal-01  
+- Email: se.zeeshanafzal@gmail.com  
 
+---
+
+💡 *Passionate about building AI-driven systems, scalable backend architectures, and real-world impactful products.*
