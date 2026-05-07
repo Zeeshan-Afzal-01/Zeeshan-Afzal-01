@@ -36,17 +36,11 @@ Git, GitHub Actions, Docker, Postman, n8n, CI/CD Pipelines
 
 ## 📌 Featured Projects
 
-### 🔹 SLIMAI (AI Product Platform)
-Full-stack AI-powered calorie tracking and nutrition platform with CMS integration and real-time insights.
-
 ### 🔹 HealthBridge AI
 Multimodal AI medical assistant supporting image, text, and voice-based diagnostic interaction.
 
 ### 🔹 Journey Through Pakistan (JTP)
 AI-based tourism platform with landmark recognition, recommendations, and real-time user interaction features.
-
-### 🔹 No Yelling
-Scalable booking platform with server-rendered pages and optimized performance architecture.
 
 
 ---
